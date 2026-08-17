@@ -1,0 +1,16 @@
+company_id,table,rows,first_year,last_year
+ABB,profitandloss,12,2012-12,2024-03
+ABB,balancesheet,13,2012-12,2024-09
+ABB,cashflow,12,2012-12,2024-03
+TCS,profitandloss,12,2013-03,2024-03
+TCS,balancesheet,13,2013-03,2024-09
+TCS,cashflow,12,2013-03,2024-03
+HDFCBANK,profitandloss,12,2013-03,2024-03
+HDFCBANK,balancesheet,12,2013-03,2024-03
+HDFCBANK,cashflow,12,2013-03,2024-03
+INFY,profitandloss,12,2013-03,2024-03
+INFY,balancesheet,13,2013-03,2024-09
+INFY,cashflow,12,2013-03,2024-03
+RELIANCE,profitandloss,12,2013-03,2024-03
+RELIANCE,balancesheet,13,2013-03,2024-09
+RELIANCE,cashflow,12,2013-03,2024-03

@@ -1,0 +1,15 @@
+{
+  "companies": 92,
+  "pros_cons_companies": 92,
+  "analysis_parsed_rows": 51,
+  "parse_failures": 13,
+  "cagr_manual_review_rows": 1,
+  "cashflow_rows": 92,
+  "distress_alerts": 13,
+  "pattern_changes": 418,
+  "tearsheets_generated": 92,
+  "tearsheets_skipped": 0,
+  "sector_reports": 11,
+  "portfolio_pages": 92,
+  "min_tearsheet_bytes": 54822
+}

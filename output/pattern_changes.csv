@@ -1,0 +1,419 @@
+company_id,from_year,from_pattern,to_year,to_pattern
+ABB,2012,Reinvestor,2014,Mixed
+ABB,2015,Mixed,2016,Reinvestor
+ABB,2017,Reinvestor,2018,Shareholder Returns
+ABB,2020,Shareholder Returns,2021,Reinvestor
+ABB,2022,Reinvestor,2023,Shareholder Returns
+ABB,2023,Shareholder Returns,2024,Reinvestor
+ADANIENSOL,2015,Mixed,2016,Reinvestor
+ADANIENSOL,2017,Reinvestor,2018,Shareholder Returns
+ADANIENSOL,2020,Shareholder Returns,2021,Reinvestor
+ADANIENSOL,2022,Reinvestor,2023,Shareholder Returns
+ADANIENSOL,2023,Shareholder Returns,2024,Reinvestor
+ADANIENT,2013,Shareholder Returns,2014,Reinvestor
+ADANIENT,2014,Reinvestor,2015,Shareholder Returns
+ADANIENT,2015,Shareholder Returns,2016,Reinvestor
+ADANIENT,2016,Reinvestor,2017,Shareholder Returns
+ADANIENT,2018,Shareholder Returns,2019,Liquidating Assets
+ADANIENT,2019,Liquidating Assets,2020,Reinvestor
+ADANIENT,2020,Reinvestor,2021,Shareholder Returns
+ADANIENT,2022,Shareholder Returns,2023,Reinvestor
+ADANIENT,2023,Reinvestor,2024,Shareholder Returns
+ADANIGREEN,2022,Shareholder Returns,2023,Reinvestor
+ADANIGREEN,2023,Reinvestor,2024,Shareholder Returns
+ADANIPORTS,2014,Shareholder Returns,2015,Reinvestor
+ADANIPORTS,2015,Reinvestor,2016,Shareholder Returns
+ADANIPORTS,2016,Shareholder Returns,2017,Reinvestor
+ADANIPORTS,2018,Reinvestor,2019,Shareholder Returns
+ADANIPORTS,2019,Shareholder Returns,2020,Reinvestor
+ADANIPORTS,2020,Reinvestor,2021,Shareholder Returns
+ADANIPORTS,2021,Shareholder Returns,2022,Reinvestor
+ADANIPOWER,2014,Shareholder Returns,2015,Reinvestor
+ADANIPOWER,2021,Reinvestor,2022,Liquidating Assets
+AMBUJACEM,2021,Reinvestor,2023,Shareholder Returns
+APOLLOHOSP,2013,Shareholder Returns,2014,Reinvestor
+APOLLOHOSP,2014,Reinvestor,2015,Shareholder Returns
+APOLLOHOSP,2017,Shareholder Returns,2018,Reinvestor
+AXISBANK,2014,Shareholder Returns,2015,Mixed
+AXISBANK,2015,Mixed,2016,Distress Signal
+AXISBANK,2016,Distress Signal,2017,Reinvestor
+AXISBANK,2017,Reinvestor,2018,Mixed
+AXISBANK,2018,Mixed,2019,Shareholder Returns
+AXISBANK,2023,Shareholder Returns,2024,Mixed
+BAJAJ-AUTO,2019,Reinvestor,2020,Liquidating Assets
+BAJAJ-AUTO,2020,Liquidating Assets,2021,Reinvestor
+BAJAJ-AUTO,2021,Reinvestor,2022,Liquidating Assets
+BAJAJ-AUTO,2023,Liquidating Assets,2024,Reinvestor
+BAJAJFINSV,2015,Distress Signal,2016,Mixed
+BAJAJFINSV,2016,Mixed,2017,Distress Signal
+BAJAJFINSV,2017,Distress Signal,2018,Mixed
+BAJAJFINSV,2020,Mixed,2021,Shareholder Returns
+BAJAJFINSV,2021,Shareholder Returns,2022,Distress Signal
+BAJAJFINSV,2022,Distress Signal,2023,Mixed
+BAJAJHLDNG,2015,Reinvestor,2016,Liquidating Assets
+BAJAJHLDNG,2016,Liquidating Assets,2017,Mixed
+BAJAJHLDNG,2017,Mixed,2018,Reinvestor
+BAJFINANCE,2017,Mixed,2018,Distress Signal
+BAJFINANCE,2018,Distress Signal,2019,Mixed
+BAJFINANCE,2021,Mixed,2022,Distress Signal
+BAJFINANCE,2022,Distress Signal,2023,Mixed
+BANKBARODA,2013,Reinvestor,2014,Shareholder Returns
+BANKBARODA,2014,Shareholder Returns,2015,Reinvestor
+BANKBARODA,2015,Reinvestor,2016,Mixed
+BANKBARODA,2016,Mixed,2017,Reinvestor
+BANKBARODA,2017,Reinvestor,2018,Mixed
+BANKBARODA,2019,Mixed,2020,Shareholder Returns
+BANKBARODA,2020,Shareholder Returns,2021,Mixed
+BANKBARODA,2021,Mixed,2022,Reinvestor
+BANKBARODA,2022,Reinvestor,2023,Mixed
+BEL,2014,Pre-Revenue Growth,2015,Reinvestor
+BEL,2016,Reinvestor,2017,Pre-Revenue Growth
+BEL,2017,Pre-Revenue Growth,2018,Mixed
+BEL,2018,Mixed,2019,Reinvestor
+BEL,2022,Reinvestor,2023,Liquidating Assets
+BEL,2023,Liquidating Assets,2024,Reinvestor
+BHARTIARTL,2013,Reinvestor,2014,Shareholder Returns
+BHARTIARTL,2014,Shareholder Returns,2015,Reinvestor
+BHARTIARTL,2017,Reinvestor,2018,Shareholder Returns
+BHARTIARTL,2020,Shareholder Returns,2021,Reinvestor
+BHEL,2014,Shareholder Returns,2015,Liquidating Assets
+BHEL,2016,Liquidating Assets,2017,Reinvestor
+BHEL,2017,Reinvestor,2018,Liquidating Assets
+BHEL,2018,Liquidating Assets,2019,Pre-Revenue Growth
+BHEL,2019,Pre-Revenue Growth,2020,Distress Signal
+BHEL,2020,Distress Signal,2021,Reinvestor
+BHEL,2022,Reinvestor,2023,Distress Signal
+BOSCHLTD,2016,Reinvestor,2017,Liquidating Assets
+BOSCHLTD,2017,Liquidating Assets,2018,Reinvestor
+BOSCHLTD,2018,Reinvestor,2019,Liquidating Assets
+BOSCHLTD,2019,Liquidating Assets,2020,Reinvestor
+BOSCHLTD,2022,Reinvestor,2023,Liquidating Assets
+BPCL,2016,Reinvestor,2017,Shareholder Returns
+BPCL,2017,Shareholder Returns,2018,Reinvestor
+BPCL,2018,Reinvestor,2019,Shareholder Returns
+BPCL,2020,Shareholder Returns,2021,Reinvestor
+BRITANNIA,2013,Liquidating Assets,2014,Reinvestor
+BRITANNIA,2019,Reinvestor,2020,Shareholder Returns
+BRITANNIA,2020,Shareholder Returns,2021,Liquidating Assets
+BRITANNIA,2022,Liquidating Assets,2023,Reinvestor
+BRITANNIA,2023,Reinvestor,2024,Liquidating Assets
+CANBK,2016,Reinvestor,2017,Shareholder Returns
+CANBK,2017,Shareholder Returns,2018,Mixed
+CANBK,2018,Mixed,2019,Reinvestor
+CANBK,2019,Reinvestor,2020,Mixed
+CANBK,2020,Mixed,2021,Shareholder Returns
+CANBK,2022,Shareholder Returns,2023,Mixed
+CANBK,2023,Mixed,2024,Reinvestor
+CHOLAFIN,2013,Distress Signal,2014,Mixed
+CHOLAFIN,2021,Mixed,2022,Distress Signal
+CHOLAFIN,2022,Distress Signal,2023,Mixed
+CIPLA,2013,Shareholder Returns,2014,Reinvestor
+CIPLA,2014,Reinvestor,2015,Shareholder Returns
+CIPLA,2016,Shareholder Returns,2017,Reinvestor
+CIPLA,2019,Reinvestor,2020,Liquidating Assets
+CIPLA,2020,Liquidating Assets,2021,Reinvestor
+COALINDIA,2013,Reinvestor,2014,Liquidating Assets
+COALINDIA,2017,Liquidating Assets,2018,Reinvestor
+COALINDIA,2019,Reinvestor,2020,Liquidating Assets
+COALINDIA,2021,Liquidating Assets,2022,Reinvestor
+DABUR,2018,Reinvestor,2019,Liquidating Assets
+DABUR,2019,Liquidating Assets,2020,Reinvestor
+DIVISLAB,2016,Reinvestor,2017,Shareholder Returns
+DIVISLAB,2017,Shareholder Returns,2018,Reinvestor
+DIVISLAB,2020,Reinvestor,2021,Liquidating Assets
+DIVISLAB,2021,Liquidating Assets,2022,Reinvestor
+DLF,2015,Liquidating Assets,2016,Reinvestor
+DLF,2016,Reinvestor,2017,Distress Signal
+DLF,2017,Distress Signal,2018,Reinvestor
+DLF,2018,Reinvestor,2019,Growth + Debt
+DLF,2019,Growth + Debt,2020,Liquidating Assets
+DLF,2022,Liquidating Assets,2023,Reinvestor
+DLF,2023,Reinvestor,2024,Shareholder Returns
+DMART,2017,Shareholder Returns,2018,Liquidating Assets
+DMART,2018,Liquidating Assets,2019,Shareholder Returns
+DMART,2020,Shareholder Returns,2021,Reinvestor
+EICHERMOT,2016,Reinvestor,2017,Shareholder Returns
+EICHERMOT,2017,Shareholder Returns,2018,Reinvestor
+GAIL,2013,Shareholder Returns,2014,Reinvestor
+GAIL,2019,Reinvestor,2020,Shareholder Returns
+GAIL,2020,Shareholder Returns,2021,Reinvestor
+GAIL,2022,Reinvestor,2023,Shareholder Returns
+GAIL,2023,Shareholder Returns,2024,Reinvestor
+GODREJCP,2013,Shareholder Returns,2014,Reinvestor
+GODREJCP,2016,Reinvestor,2017,Shareholder Returns
+GODREJCP,2017,Shareholder Returns,2018,Reinvestor
+GODREJCP,2018,Reinvestor,2019,Liquidating Assets
+GODREJCP,2019,Liquidating Assets,2020,Reinvestor
+GODREJCP,2023,Reinvestor,2024,Shareholder Returns
+GRASIM,2013,Shareholder Returns,2014,Reinvestor
+GRASIM,2017,Reinvestor,2018,Distress Signal
+GRASIM,2018,Distress Signal,2019,Mixed
+GRASIM,2019,Mixed,2020,Reinvestor
+GRASIM,2022,Reinvestor,2023,Mixed
+HAL,2018,Pre-Revenue Growth,2019,Distress Signal
+HAL,2019,Distress Signal,2020,Shareholder Returns
+HAL,2020,Shareholder Returns,2021,Reinvestor
+HAVELLS,2018,Reinvestor,2019,Liquidating Assets
+HAVELLS,2019,Liquidating Assets,2020,Reinvestor
+HAVELLS,2020,Reinvestor,2021,Shareholder Returns
+HAVELLS,2021,Shareholder Returns,2022,Reinvestor
+HAVELLS,2022,Reinvestor,2023,Liquidating Assets
+HAVELLS,2023,Liquidating Assets,2024,Reinvestor
+HCLTECH,2021,Reinvestor,2022,Liquidating Assets
+HCLTECH,2022,Liquidating Assets,2023,Reinvestor
+HDFCBANK,2013,Mixed,2014,Shareholder Returns
+HDFCBANK,2014,Shareholder Returns,2015,Mixed
+HDFCBANK,2016,Mixed,2017,Reinvestor
+HDFCBANK,2017,Reinvestor,2018,Shareholder Returns
+HDFCBANK,2018,Shareholder Returns,2019,Mixed
+HDFCBANK,2020,Mixed,2021,Reinvestor
+HDFCBANK,2021,Reinvestor,2022,Mixed
+HDFCBANK,2022,Mixed,2023,Shareholder Returns
+HDFCBANK,2023,Shareholder Returns,2024,Liquidating Assets
+HDFCLIFE,2014,Mixed,2015,Reinvestor
+HDFCLIFE,2019,Reinvestor,2020,Shareholder Returns
+HDFCLIFE,2021,Shareholder Returns,2022,Reinvestor
+HDFCLIFE,2022,Reinvestor,2023,Shareholder Returns
+HDFCLIFE,2023,Shareholder Returns,2024,Reinvestor
+HEROMOTOCO,2014,Reinvestor,2015,Liquidating Assets
+HEROMOTOCO,2015,Liquidating Assets,2016,Reinvestor
+HEROMOTOCO,2018,Reinvestor,2019,Liquidating Assets
+HEROMOTOCO,2019,Liquidating Assets,2020,Reinvestor
+HINDALCO,2014,Shareholder Returns,2015,Reinvestor
+HINDALCO,2017,Reinvestor,2018,Liquidating Assets
+HINDALCO,2018,Liquidating Assets,2019,Reinvestor
+HINDALCO,2019,Reinvestor,2020,Shareholder Returns
+HINDALCO,2020,Shareholder Returns,2021,Reinvestor
+HINDUNILVR,2013,Liquidating Assets,2014,Reinvestor
+HINDUNILVR,2014,Reinvestor,2015,Liquidating Assets
+HINDUNILVR,2015,Liquidating Assets,2016,Reinvestor
+HINDUNILVR,2019,Reinvestor,2020,Liquidating Assets
+HINDUNILVR,2020,Liquidating Assets,2021,Reinvestor
+ICICIBANK,2014,Shareholder Returns,2015,Mixed
+ICICIBANK,2015,Mixed,2016,Shareholder Returns
+ICICIBANK,2016,Shareholder Returns,2017,Reinvestor
+ICICIBANK,2017,Reinvestor,2018,Shareholder Returns
+ICICIBANK,2018,Shareholder Returns,2019,Reinvestor
+ICICIBANK,2019,Reinvestor,2020,Shareholder Returns
+ICICIBANK,2020,Shareholder Returns,2021,Reinvestor
+ICICIBANK,2021,Reinvestor,2022,Shareholder Returns
+ICICIBANK,2022,Shareholder Returns,2023,Mixed
+ICICIBANK,2023,Mixed,2024,Shareholder Returns
+ICICIGI,2014,Shareholder Returns,2015,Pre-Revenue Growth
+ICICIGI,2015,Pre-Revenue Growth,2016,Reinvestor
+ICICIGI,2016,Reinvestor,2017,Shareholder Returns
+ICICIGI,2017,Shareholder Returns,2018,Reinvestor
+ICICIGI,2021,Reinvestor,2022,Liquidating Assets
+ICICIGI,2022,Liquidating Assets,2023,Reinvestor
+ICICIPRULI,2014,Pre-Revenue Growth,2015,Reinvestor
+ICICIPRULI,2015,Reinvestor,2016,Liquidating Assets
+ICICIPRULI,2016,Liquidating Assets,2017,Reinvestor
+ICICIPRULI,2020,Reinvestor,2021,Shareholder Returns
+ICICIPRULI,2021,Shareholder Returns,2022,Reinvestor
+ICICIPRULI,2023,Reinvestor,2024,Pre-Revenue Growth
+INDIGO,2014,Shareholder Returns,2015,Reinvestor
+INDIGO,2017,Reinvestor,2018,Shareholder Returns
+INDIGO,2018,Shareholder Returns,2019,Reinvestor
+INDIGO,2020,Reinvestor,2021,Pre-Revenue Growth
+INDIGO,2021,Pre-Revenue Growth,2022,Liquidating Assets
+INDIGO,2022,Liquidating Assets,2023,Reinvestor
+INDUSINDBK,2016,Mixed,2017,Reinvestor
+INDUSINDBK,2017,Reinvestor,2018,Mixed
+INDUSINDBK,2019,Mixed,2020,Distress Signal
+INDUSINDBK,2020,Distress Signal,2021,Reinvestor
+INDUSINDBK,2022,Reinvestor,2023,Mixed
+INFY,2014,Reinvestor,2015,Liquidating Assets
+INFY,2015,Liquidating Assets,2016,Reinvestor
+INFY,2017,Reinvestor,2018,Liquidating Assets
+INFY,2018,Liquidating Assets,2019,Reinvestor
+IOC,2013,Shareholder Returns,2014,Reinvestor
+IOC,2018,Reinvestor,2019,Shareholder Returns
+IOC,2020,Shareholder Returns,2021,Reinvestor
+IRCTC,2015,Reinvestor,2016,Liquidating Assets
+IRCTC,2018,Liquidating Assets,2019,Reinvestor
+IRCTC,2019,Reinvestor,2020,Liquidating Assets
+IRCTC,2020,Liquidating Assets,2021,Reinvestor
+IRFC,2020,Distress Signal,2021,Mixed / Unclassified
+IRFC,2021,Mixed / Unclassified,2022,Mixed
+IRFC,2022,Mixed,2023,Mixed / Unclassified
+IRFC,2023,Mixed / Unclassified,2024,Reinvestor
+ITC,2020,Reinvestor,2021,Liquidating Assets
+ITC,2021,Liquidating Assets,2022,Reinvestor
+ITC,2023,Reinvestor,2024,Liquidating Assets
+JINDALSTEL,2015,Shareholder Returns,2016,Reinvestor
+JINDALSTEL,2023,Reinvestor,2024,Shareholder Returns
+JIOFIN,2023,Reinvestor,2024,Pre-Revenue Growth
+JSWENERGY,2019,Reinvestor,2020,Liquidating Assets
+JSWENERGY,2020,Liquidating Assets,2021,Reinvestor
+JSWENERGY,2022,Reinvestor,2023,Shareholder Returns
+JSWSTEEL,2013,Reinvestor,2014,Shareholder Returns
+JSWSTEEL,2014,Shareholder Returns,2015,Reinvestor
+JSWSTEEL,2018,Reinvestor,2019,Shareholder Returns
+JSWSTEEL,2020,Shareholder Returns,2021,Reinvestor
+KOTAKBANK,2013,Shareholder Returns,2014,Reinvestor
+KOTAKBANK,2014,Reinvestor,2015,Shareholder Returns
+KOTAKBANK,2017,Shareholder Returns,2018,Mixed
+KOTAKBANK,2018,Mixed,2019,Shareholder Returns
+KOTAKBANK,2019,Shareholder Returns,2020,Reinvestor
+KOTAKBANK,2021,Reinvestor,2022,Shareholder Returns
+KOTAKBANK,2022,Shareholder Returns,2023,Mixed
+KOTAKBANK,2023,Mixed,2024,Shareholder Returns
+LICI,2019,Liquidating Assets,2020,Reinvestor
+LICI,2020,Reinvestor,2021,Liquidating Assets
+LICI,2021,Liquidating Assets,2022,Mixed / Unclassified
+LICI,2022,Mixed / Unclassified,2023,Reinvestor
+LODHA,2016,Shareholder Returns,2017,Reinvestor
+LODHA,2017,Reinvestor,2018,Shareholder Returns
+LODHA,2018,Shareholder Returns,2019,Mixed
+LODHA,2019,Mixed,2020,Liquidating Assets
+LODHA,2023,Liquidating Assets,2024,Shareholder Returns
+LT,2016,Mixed,2017,Shareholder Returns
+LT,2017,Shareholder Returns,2018,Distress Signal
+LT,2018,Distress Signal,2019,Mixed
+LT,2019,Mixed,2020,Shareholder Returns
+LT,2020,Shareholder Returns,2021,Reinvestor
+LT,2023,Reinvestor,2024,Liquidating Assets
+LTIM,2013,Reinvestor,2014,Liquidating Assets
+LTIM,2014,Liquidating Assets,2015,Reinvestor
+M&M,2014,Mixed,2015,Shareholder Returns
+M&M,2018,Shareholder Returns,2019,Mixed
+M&M,2020,Mixed,2021,Shareholder Returns
+M&M,2021,Shareholder Returns,2022,Reinvestor
+M&M,2022,Reinvestor,2023,Mixed
+MOTHERSON,2014,Reinvestor,2015,Shareholder Returns
+MOTHERSON,2015,Shareholder Returns,2016,Reinvestor
+MOTHERSON,2016,Reinvestor,2017,Shareholder Returns
+MOTHERSON,2017,Shareholder Returns,2018,Reinvestor
+MOTHERSON,2023,Reinvestor,2024,Shareholder Returns
+NAUKRI,2013,Reinvestor,2014,Shareholder Returns
+NAUKRI,2015,Shareholder Returns,2016,Reinvestor
+NAUKRI,2019,Reinvestor,2020,Liquidating Assets
+NAUKRI,2020,Liquidating Assets,2021,Shareholder Returns
+NESTLEIND,2018,Reinvestor,2019,Liquidating Assets
+NESTLEIND,2019,Liquidating Assets,2020,Reinvestor
+NHPC,2019,Reinvestor,2020,Shareholder Returns
+NHPC,2020,Shareholder Returns,2021,Reinvestor
+NTPC,2013,Shareholder Returns,2014,Reinvestor
+NTPC,2016,Reinvestor,2017,Shareholder Returns
+NTPC,2020,Shareholder Returns,2021,Reinvestor
+ONGC,2013,Reinvestor,2014,Shareholder Returns
+ONGC,2014,Shareholder Returns,2015,Reinvestor
+ONGC,2017,Reinvestor,2018,Shareholder Returns
+ONGC,2018,Shareholder Returns,2019,Reinvestor
+PFC,2014,Distress Signal,2015,Mixed
+PFC,2016,Mixed,2017,Shareholder Returns
+PFC,2017,Shareholder Returns,2018,Distress Signal
+PFC,2018,Distress Signal,2019,Mixed
+PFC,2020,Mixed,2021,Distress Signal
+PFC,2021,Distress Signal,2022,Reinvestor
+PFC,2022,Reinvestor,2023,Mixed
+PIDILITIND,2016,Reinvestor,2017,Shareholder Returns
+PIDILITIND,2017,Shareholder Returns,2018,Liquidating Assets
+PIDILITIND,2018,Liquidating Assets,2019,Reinvestor
+PIDILITIND,2019,Reinvestor,2020,Liquidating Assets
+PIDILITIND,2020,Liquidating Assets,2021,Reinvestor
+PNB,2013,Mixed,2014,Shareholder Returns
+PNB,2016,Shareholder Returns,2017,Liquidating Assets
+PNB,2017,Liquidating Assets,2018,Distress Signal
+PNB,2018,Distress Signal,2019,Mixed
+PNB,2020,Mixed,2021,Shareholder Returns
+PNB,2023,Shareholder Returns,2024,Mixed
+POWERGRID,2018,Shareholder Returns,2019,Reinvestor
+POWERGRID,2021,Reinvestor,2022,Liquidating Assets
+POWERGRID,2022,Liquidating Assets,2023,Reinvestor
+RECLTD,2015,Distress Signal,2016,Mixed
+RECLTD,2016,Mixed,2017,Reinvestor
+RECLTD,2017,Reinvestor,2018,Distress Signal
+RECLTD,2021,Distress Signal,2022,Mixed
+RELIANCE,2015,Shareholder Returns,2016,Reinvestor
+RELIANCE,2016,Reinvestor,2017,Shareholder Returns
+RELIANCE,2017,Shareholder Returns,2018,Reinvestor
+RELIANCE,2018,Reinvestor,2019,Shareholder Returns
+RELIANCE,2019,Shareholder Returns,2020,Reinvestor
+RELIANCE,2020,Reinvestor,2021,Shareholder Returns
+RELIANCE,2023,Shareholder Returns,2024,Reinvestor
+SBILIFE,2020,Reinvestor,2021,Shareholder Returns
+SBILIFE,2021,Shareholder Returns,2022,Reinvestor
+SBIN,2013,Reinvestor,2014,Shareholder Returns
+SBIN,2014,Shareholder Returns,2015,Reinvestor
+SBIN,2015,Reinvestor,2016,Shareholder Returns
+SBIN,2016,Shareholder Returns,2017,Reinvestor
+SBIN,2017,Reinvestor,2018,Distress Signal
+SBIN,2018,Distress Signal,2019,Growth + Debt
+SBIN,2019,Growth + Debt,2020,Shareholder Returns
+SBIN,2021,Shareholder Returns,2022,Reinvestor
+SBIN,2022,Reinvestor,2023,Mixed
+SBIN,2023,Mixed,2024,Reinvestor
+SHREECEM,2017,Reinvestor,2018,Shareholder Returns
+SHREECEM,2018,Shareholder Returns,2019,Reinvestor
+SHREECEM,2019,Reinvestor,2020,Shareholder Returns
+SHREECEM,2020,Shareholder Returns,2021,Reinvestor
+SHRIRAMFIN,2017,Mixed,2018,Distress Signal
+SHRIRAMFIN,2018,Distress Signal,2019,Mixed
+SHRIRAMFIN,2022,Mixed,2023,Distress Signal
+SHRIRAMFIN,2023,Distress Signal,2024,Mixed
+SIEMENS,2017,Liquidating Assets,2018,Reinvestor
+SIEMENS,2019,Reinvestor,2020,Liquidating Assets
+SIEMENS,2020,Liquidating Assets,2021,Reinvestor
+SUNPHARMA,2013,Reinvestor,2014,Shareholder Returns
+SUNPHARMA,2014,Shareholder Returns,2015,Reinvestor
+SUNPHARMA,2020,Reinvestor,2021,Liquidating Assets
+SUNPHARMA,2021,Liquidating Assets,2022,Reinvestor
+SUNPHARMA,2022,Reinvestor,2023,Shareholder Returns
+SUNPHARMA,2023,Shareholder Returns,2024,Reinvestor
+TATACONSUM,2013,Growth + Debt,2014,Reinvestor
+TATACONSUM,2015,Reinvestor,2016,Liquidating Assets
+TATACONSUM,2017,Liquidating Assets,2018,Reinvestor
+TATACONSUM,2018,Reinvestor,2019,Liquidating Assets
+TATACONSUM,2019,Liquidating Assets,2020,Reinvestor
+TATACONSUM,2023,Reinvestor,2024,Shareholder Returns
+TATAMOTORS,2014,Reinvestor,2015,Shareholder Returns
+TATAMOTORS,2015,Shareholder Returns,2016,Reinvestor
+TATAMOTORS,2016,Reinvestor,2017,Shareholder Returns
+TATAMOTORS,2021,Shareholder Returns,2022,Reinvestor
+TATAPOWER,2016,Reinvestor,2017,Shareholder Returns
+TATAPOWER,2017,Shareholder Returns,2018,Reinvestor
+TATAPOWER,2020,Reinvestor,2021,Liquidating Assets
+TATAPOWER,2021,Liquidating Assets,2022,Reinvestor
+TATAPOWER,2022,Reinvestor,2023,Shareholder Returns
+TATAPOWER,2023,Shareholder Returns,2024,Reinvestor
+TATASTEEL,2013,Reinvestor,2014,Shareholder Returns
+TATASTEEL,2014,Shareholder Returns,2015,Reinvestor
+TATASTEEL,2017,Reinvestor,2018,Shareholder Returns
+TATASTEEL,2018,Shareholder Returns,2019,Reinvestor
+TCS,2017,Reinvestor,2018,Liquidating Assets
+TCS,2020,Liquidating Assets,2021,Reinvestor
+TCS,2022,Reinvestor,2023,Liquidating Assets
+TECHM,2013,Shareholder Returns,2014,Liquidating Assets
+TECHM,2014,Liquidating Assets,2015,Reinvestor
+TECHM,2019,Reinvestor,2020,Liquidating Assets
+TECHM,2020,Liquidating Assets,2021,Reinvestor
+TECHM,2021,Reinvestor,2022,Liquidating Assets
+TECHM,2022,Liquidating Assets,2023,Reinvestor
+TITAN,2013,Reinvestor,2014,Mixed
+TITAN,2014,Mixed,2015,Reinvestor
+TITAN,2017,Reinvestor,2018,Pre-Revenue Growth
+TITAN,2018,Pre-Revenue Growth,2019,Reinvestor
+TITAN,2019,Reinvestor,2020,Pre-Revenue Growth
+TITAN,2020,Pre-Revenue Growth,2021,Reinvestor
+TITAN,2021,Reinvestor,2022,Pre-Revenue Growth
+TITAN,2022,Pre-Revenue Growth,2023,Shareholder Returns
+TITAN,2023,Shareholder Returns,2024,Reinvestor
+TORNTPHARM,2015,Shareholder Returns,2016,Reinvestor
+TORNTPHARM,2017,Reinvestor,2018,Shareholder Returns
+TORNTPHARM,2018,Shareholder Returns,2019,Reinvestor
+TORNTPHARM,2019,Reinvestor,2020,Liquidating Assets
+TORNTPHARM,2020,Liquidating Assets,2021,Reinvestor
+TORNTPHARM,2022,Reinvestor,2023,Shareholder Returns
+TORNTPHARM,2023,Shareholder Returns,2024,Reinvestor
+TRENT,2013,Shareholder Returns,2014,Mixed
+TRENT,2015,Mixed,2016,Reinvestor
+TRENT,2018,Reinvestor,2019,Shareholder Returns
+TRENT,2020,Shareholder Returns,2021,Liquidating Assets
+TRENT,2022,Liquidating Assets,2023,Reinvestor
+TVSMOTOR,2014,Reinvestor,2015,Shareholder Returns
+TVSMOTOR,2015,Shareholder Returns,2016,Reinvestor
+TVSMOTOR,2017,Reinvestor,2018,Shareholder Returns
+TVSMOTOR,2018,Shareholder Returns,2019,Mixed
+TVSMOTOR,2019,Mixed,2020,Shareholder Returns
+TVSMOTOR,2021,Shareholder Returns,2022,Mixed

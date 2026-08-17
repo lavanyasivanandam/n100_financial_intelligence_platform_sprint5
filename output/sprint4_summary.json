@@ -1,0 +1,12 @@
+{
+  "dashboard_screens": 8,
+  "valuation_rows": 92,
+  "valuation_companies": 92,
+  "valuation_flags": {
+    "Caution": 32,
+    "Fair": 30,
+    "Discount": 30
+  },
+  "peer_groups": 11,
+  "peer_percentile_rows": 560
+}
